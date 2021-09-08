@@ -2,7 +2,7 @@
 
 👀 I’m interested in developing business by optimal Native Apps and websites, coding, football, Nintendo and beer.
 
-🌱 I’m currently learning all about website development, specially frameworks like React.js
+🌱 I’m currently learning all about software development, specially frameworks like React and Angular
 
 💞️ I’m looking to collaborate on any interesting project that can lead to the growth of an existing product/service.
 
