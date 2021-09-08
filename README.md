@@ -1,6 +1,6 @@
 👋 Hi, I’m @iamnachoj
 
-👀 I’m interested in developing business by optimal websites, coding, football and beer.
+👀 I’m interested in developing business by optimal Native Apps and websites, coding, football and beer.
 
 🌱 I’m currently learning all about website development, specially frameworks like React.js
 
