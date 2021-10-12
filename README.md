@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on any interesting project that can lead to the growth of an existing product/service.
 
-😎 I love coding, astronomy, travelling, trying new beers, djing and driving ✈️ 🍺 🔭 🌃
+😎 I love coding, astronomy, travelling, trying new beers and djing 
 
 📫 How to reach me ...? here! ---> https://www.linkedin.com/in/ignacio-jimenezjimenez/
 
