@@ -2,7 +2,7 @@
 
 👀 I’m interested in developing business by optimal apps and websites.
 
-🌱 I’m currently learning all about software development, specially frameworks like React and Angular
+🌱 I’m programming both client and server side, using React and the MERN stack to build quality user interfaces. 
 
 💞️ I’m looking to collaborate on any interesting project that can lead to the growth of an existing product/service.
 
